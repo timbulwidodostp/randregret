@@ -1,5 +1,14 @@
-d 'DEA': Data envelopment analysis
+d 'randregret': A command for fitting (Discrete Choice) Random Regret Minimization models Use randregret With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f mixrandregret.ado
+f mixrandregret.sthlp
+f mixrbeta.ado
+f mixrpred.ado
+f mixrrm_gf0.mata
+f randregret.ado
+f randregret.mata
+f randregret.sthlp
+f randregret_pure.ado
+f randregret_pure.sthlp
+f randregretpred.ado
+f randregretpred.sthlp
