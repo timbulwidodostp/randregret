@@ -2,4 +2,4 @@
 1
 2
 3
-p dea Data envelopment analysis
+p randregret A command for fitting (Discrete Choice) Random Regret Minimization models Use randregret With STATA 18
