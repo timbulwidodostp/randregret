@@ -3,6 +3,8 @@ A command for fitting (Discrete Choice) Random Regret Minimization models Use ra
 
 Classic, Generalized, Mu, and Pure Random Regret Minimization (RRM) Models Use randregret With STATA 18
 
+https://www.youtube.com/watch?v=5W14agQV1fE
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
